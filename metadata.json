@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo de Plazos Críticos",
+  "description": "Sistema ejecutivo para gestión de entregables, cumplimiento de plazos críticos, alertas tempranas y ejecución analítica con IA con trazabilidad de tokens y razonamiento paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
